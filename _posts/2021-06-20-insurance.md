@@ -1,4 +1,8 @@
-# 복습 - 답
+---
+layout: single
+title:  "데이터 분석 실습_insurance"
+---
+
 
 
 ```python
