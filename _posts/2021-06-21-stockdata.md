@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "주가분석실습"
+---
+
 ```python
 %conda install pandas-datareader
 ```
