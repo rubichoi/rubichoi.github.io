@@ -78,17 +78,6 @@ def solution(number, k):
 ```
 
 
-```python
-solution("4177252841",4)
-```
-
-
-
-
-    '775841'
-
-
-
 
 ```python
 def solution(number, k):
@@ -105,17 +94,6 @@ def solution(number, k):
 ```
 
 
-```python
-solution("4177252841",4)
-```
-
-
-
-
-    '775841'
-
-
-
 
 ```python
 def solution(number, k):
@@ -128,26 +106,4 @@ def solution(number, k):
         answer.append(num)
         
     return ''.join(answer[:len(answer) - k])
-```
-
-
-```python
-solution("4177252841",4)
-```
-
-
-
-
-    '775841'
-
-
-
-
-```python
-
-```
-
-
-```python
-
 ```
