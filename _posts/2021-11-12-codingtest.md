@@ -7,8 +7,6 @@ title:  "프로그래머스 소수찾기 파이썬"
 
 https://programmers.co.kr/learn/courses/30/lessons/42839
 
-a |= b : a와 b의 비트를 OR 연산한 후 결과를 a에 할당
-
 ## 에라토스 테네스의 체
 
 고대 그리스 수학자 에라토스테네스가 만들어 낸 소수를 찾는 방법. O(Nlog(logN))의 시간 복잡도를 가진다.
