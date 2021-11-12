@@ -119,8 +119,8 @@ def solution(numbers):
     return len(answer)
     
 
-print(solution("17"))       # result : 3
-print(solution("011"))      # result : 2
+print(solution("17"))       
+print(solution("011"))      
 ```
 
     3
